@@ -95,4 +95,4 @@ print("Your score is", score)  # Print the user's final score
 if score == 5:
     print("Congrats! You won a $10 gift card")  # Print a congratulatory message if the user scored full marks
 else:
-    print("Better luck next time!")  # Print a message if the user didn't score full marks
+    print("Better luck next time!")  # Print a message if the user didn't score full marks.
