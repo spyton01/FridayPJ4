@@ -37,3 +37,5 @@ if score == 5:
     print("Congrats! You won a $10 gift card")
 else:
     print("Better luck next time!")
+
+    x = "ken"
