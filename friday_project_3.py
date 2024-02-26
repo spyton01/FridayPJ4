@@ -38,4 +38,4 @@ if score == 5:
 else:
     print("Better luck next time!")
 
-    x = "ken"
+    x = "barbie"
